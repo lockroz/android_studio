@@ -13,7 +13,6 @@ import android.widget.ImageView
 import androidx.activity.viewModels
 import androidx.fragment.app.commit
 import androidx.lifecycle.ViewModelProvider
-import com.mdemel.afl.components.CategoryAdapter
 import com.mdemel.afl.models.Course
 import com.mdemel.afl.models.Category
 

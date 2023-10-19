@@ -9,7 +9,6 @@ import android.widget.Button
 import android.widget.GridView
 import android.widget.ImageView
 import androidx.fragment.app.commit
-import com.mdemel.afl.components.CategoryAdapter
 import com.mdemel.afl.models.Course
 import com.mdemel.afl.models.Category
 

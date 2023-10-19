@@ -9,7 +9,7 @@ import android.widget.Button
 import android.widget.GridView
 import android.widget.ImageView
 import androidx.fragment.app.commit
-import com.mdemel.afl.components.CategoryAdapter
+
 
 
 class MainActivity : AppCompatActivity() {
